@@ -1,0 +1,9 @@
+Data filter=lfs diff=lfs merge=lfs -text
+*csv filter=lfs diff=lfs merge=lfs -text
+reduced_dataset.csv filter=lfs diff=lfs merge=lfs -text
+x_test.csv filter=lfs diff=lfs merge=lfs -text
+x_train.csv filter=lfs diff=lfs merge=lfs -text
+y_test.csv filter=lfs diff=lfs merge=lfs -text
+y_train.csv filter=lfs diff=lfs merge=lfs -text
+ASEC_individual.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
